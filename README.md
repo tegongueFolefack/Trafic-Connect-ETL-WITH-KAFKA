@@ -137,6 +137,4 @@ Créer un pipeline de données en streaming pour collecter les données des véh
 
 ---
 
-## Auteur
-Créé par [IBM Corporation]. Tous droits réservés.
 
